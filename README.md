@@ -32,7 +32,7 @@ I use hands-on cybersecurity labs to practice technical skills, investigate secu
 ### 1. Splunk Incident Investigation
 Investigated a simulated cyberattack using Splunk, analyzing network activity, authentication attempts, Suricata alerts, suspicious file uploads, and Sysmon events.
 
-[View Project](https://github.com/Abdullah-sudo-win/01-Incident-Handling-with-Splunk.)
+[View Project](https://github.com/Abdullah-sudo-win/Incident-Handling-with-Splunk)
 
 ### 2. Sysmon Investigation
 Analyzed Windows endpoint telemetry, including process creation, PowerShell activity, registry modifications, network connections, and potential persistence techniques.
